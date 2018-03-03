@@ -1,6 +1,6 @@
 <template>
-  <div id="app">    
-    <router-view></router-view>
+  <div>
+    提交页面
   </div>
 </template>
 

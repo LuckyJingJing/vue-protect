@@ -1,6 +1,6 @@
 <template>
-  <div id="app">    
-    <router-view></router-view>
+  <div>
+    支付页面
   </div>
 </template>
 
